@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Exec=python3 /opt/gdl-helper/main.py
+Icon=system-help
+Terminal=False
+Categories=System;Documentation;
+
+Name=GDL Helper
+
+Comment=Helps you a little with GDL system
+Comment[ru]=Немного помогает с GDL системой

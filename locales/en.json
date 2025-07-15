@@ -1,0 +1,13 @@
+{
+    "remove_lockfile_button": "Remove pacman lockfile",
+    "envvars_button": "Environment variables",
+    "bootloader_settings_button": "Bootloader settings",
+    "quit_button": "Quit",
+    "remove_lockfile_box_text": "Are you sure you want to remove the pacman lockfile? This may cause issues with package management.",
+    "remove_lockfile_box_error": "Failed to remove lockfile.",
+    "remove_lockfile_box_success": "Lockfile removed successfully.",
+    "bootloader_settings_box_text": "Are you sure you want to update the bootloader settings?",
+    "bootloader_settings_box_progress": "Updating bootloader settings, please wait...",
+    "bootloader_settings_box_error": "Failed to update bootloader settings.",
+    "bootloader_settings_box_success": "Bootloader settings updated successfully."
+}

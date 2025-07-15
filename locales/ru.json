@@ -1,0 +1,13 @@
+{
+    "remove_lockfile_button": "Удалить блокировку pacman",
+    "envvars_button": "Переменные окружения",
+    "bootloader_settings_button": "Настройки загрузчика",
+    "quit_button": "Выйти",
+    "remove_lockfile_box_text": "Вы уверены, что хотите удалить блокировку pacman? Это может вызвать проблемы с управлением пакетами.",
+    "remove_lockfile_box_error": "Не удалось удалить блокировку.",
+    "remove_lockfile_box_success": "Блокировка успешно удалена.",
+    "bootloader_settings_box_text": "Вы уверены, что хотите обновить настройки загрузчика?",
+    "bootloader_settings_box_progress": "Обновление настроек загрузчика, пожалуйста, подождите...",
+    "bootloader_settings_box_error": "Не удалось обновить настройки загрузчика.",
+    "bootloader_settings_box_success": "Настройки загрузчика успешно обновлены."
+}
